@@ -1,0 +1,19 @@
+{
+    "name": "Contrabass",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EyTKjVoXV3sUp6dbVtBHzKuAvjehQohDdVE6qJSuPhtk",
+          "share": 100
+        }
+      ]
+    }
+  }
